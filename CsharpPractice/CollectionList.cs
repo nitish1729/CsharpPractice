@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Diagnostics.Metrics;
@@ -90,6 +91,7 @@ namespace CsharpPractice
         // C# - ArrayList
         public void ArrayList()
         {
+            ArrayList arlist = new ArrayList();
 
         }
     }

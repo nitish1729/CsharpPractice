@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NITISH MEHTA\\OneDrive\\Desktop\\Practicesection\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj": {}
+    "C:\\Users\\NITISH MEHTA\\OneDrive\\Desktop\\CsharpPracticeSection\\Practicesection\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NITISH MEHTA\\OneDrive\\Desktop\\Practicesection\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj": {
+    "C:\\Users\\NITISH MEHTA\\OneDrive\\Desktop\\CsharpPracticeSection\\Practicesection\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NITISH MEHTA\\OneDrive\\Desktop\\Practicesection\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj",
+        "projectUniqueName": "C:\\Users\\NITISH MEHTA\\OneDrive\\Desktop\\CsharpPracticeSection\\Practicesection\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj",
         "projectName": "CsharpPractice",
-        "projectPath": "C:\\Users\\NITISH MEHTA\\OneDrive\\Desktop\\Practicesection\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj",
+        "projectPath": "C:\\Users\\NITISH MEHTA\\OneDrive\\Desktop\\CsharpPracticeSection\\Practicesection\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj",
         "packagesPath": "C:\\Users\\NITISH MEHTA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NITISH MEHTA\\OneDrive\\Desktop\\Practicesection\\CsharpPractice\\CsharpPractice\\obj\\",
+        "outputPath": "C:\\Users\\NITISH MEHTA\\OneDrive\\Desktop\\CsharpPracticeSection\\Practicesection\\CsharpPractice\\CsharpPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NITISH MEHTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
